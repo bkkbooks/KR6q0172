@@ -1,0 +1,110 @@
+canonical_identifier: bkk:krp/KR6q0172/X/v1
+canonical_location: https://kanripo.org/bkk/KR6q0172/X/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 祖庭鉗鎚錄
+  identifiers:
+    krp: KR6q0172
+    cbeta: X65n1286
+    cbeta_old_id: X65n1286
+    authorityid: CA0003980
+    json_key: X1286
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/X/X65/X65n1286.xml
+    old_id: X65n1286
+  edition:
+    short: X
+assets:
+  parts:
+  - {seq: 0, filename: KR6q0172_000-X.yaml, hash: 'sha256:e3f01b51dc191bef01d453f80201179a81f835dce94c266f9bfd89ad09c29e2a'}
+  - {seq: 1, filename: KR6q0172_001-X.yaml, hash: 'sha256:da8868e2b6e7909f4d6e2098b32a9c6721433f074a6aff8cf679041fff17e99b'}
+  - {seq: 2, filename: KR6q0172_002-X.yaml, hash: 'sha256:e24da3e81e7e0c56c709dda49df1d274d018f5d17198d0a3791e83282c967aa5'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6q0172_000-X.markers.yaml, hash: 'sha256:c3a4f091b36dd8329e2a8d48d3bb56e278962e21bd6c4dc5dfa46c796f95586e'}
+  - {seq: 1, role: markers, filename: assets/KR6q0172_001-X.markers.yaml, hash: 'sha256:ffa0c0fdd8d45ba29fd6eb768a9ee09e78684b4385cbf2b05f077a8b8795cb0f'}
+  - {seq: 2, role: markers, filename: assets/KR6q0172_002-X.markers.yaml, hash: 'sha256:3ccebe9cc04363580d3266d1ff1caf0fe2a5defe4b1265e3d6995d7e64fce441'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR6q0172_X_000-mulu-1
+    span:
+    - front
+    - 0
+    - 0
+  label: 祖庭鉗鎚錄
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0172_X_001-juan-start
+    span:
+    - body
+    - 0
+    - 8410
+  label: 祖庭鉗鎚錄卷之上
+  type: juan
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0172_X_002-juan-start
+    span:
+    - body
+    - 0
+    - 10003
+  label: 祖庭鉗鎚錄卷之下
+  type: juan
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0172_X_002-mulu-1
+    span:
+    - body
+    - 7376
+    - 7376
+  label: No. 1286-A (附)宗門雜錄四條
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0172_X_002-mulu-2
+    span:
+    - body
+    - 7383
+    - 7383
+  label: 拈花
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0172_X_002-mulu-3
+    span:
+    - body
+    - 7536
+    - 7536
+  label: 五問
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0172_X_002-mulu-4
+    span:
+    - body
+    - 8829
+    - 8829
+  label: 覺夢堂重較五家宗派序
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0172_X_002-mulu-5
+    span:
+    - body
+    - 9454
+    - 9454
+  label: 一喝分五教
+  type: mulu
+  level: 1
+hash: sha256:1a97eb00243df27c24f26c6f53daa448015b54d726577d4cde599644544853bf

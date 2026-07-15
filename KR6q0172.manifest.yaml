@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6q0172/v1
 canonical_location: https://kanripo.org/bkk/KR6q0172/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 祖庭鉗鎚錄
   identifiers:
@@ -22,12 +22,12 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6q0172_000.yaml, hash: 'sha256:e3f01b51dc191bef01d453f80201179a81f835dce94c266f9bfd89ad09c29e2a'}
-  - {seq: 1, filename: KR6q0172_001.yaml, hash: 'sha256:da8868e2b6e7909f4d6e2098b32a9c6721433f074a6aff8cf679041fff17e99b'}
-  - {seq: 2, filename: KR6q0172_002.yaml, hash: 'sha256:e24da3e81e7e0c56c709dda49df1d274d018f5d17198d0a3791e83282c967aa5'}
+  - {seq: 1, filename: KR6q0172_001.yaml, hash: 'sha256:8167ba99e77e641f6ce117fc9bdf29fc25feb7265f9ee6060836c6d12150d853'}
+  - {seq: 2, filename: KR6q0172_002.yaml, hash: 'sha256:889403a30bef5b39f72e37c025db0232bce37e727ed90c874ef9c5c194298556'}
   markers:
   - {seq: 0, role: markers, filename: assets/KR6q0172_000.markers.yaml, hash: 'sha256:48f1282997a7989d20fbd689bb1c3df3631fd972b67ea18ae45c89f0baa1ec1f'}
-  - {seq: 1, role: markers, filename: assets/KR6q0172_001.markers.yaml, hash: 'sha256:bea9bc3db29d525725f5949f72affba3f1a7953473fcb76ffdaba92e3df70492'}
-  - {seq: 2, role: markers, filename: assets/KR6q0172_002.markers.yaml, hash: 'sha256:b951d145f94ec29274b3c6c440da414c3566109e420ec73943b746e3ac21cda2'}
+  - {seq: 1, role: markers, filename: assets/KR6q0172_001.markers.yaml, hash: 'sha256:bf080a36c1c0f6175edd83dd4cafe02bb61897eed5eb53f29f77f85cf359bc82'}
+  - {seq: 2, role: markers, filename: assets/KR6q0172_002.markers.yaml, hash: 'sha256:2d1b2712ed0ab3cbd66a6948c0051eefef27643a2771ac0b6b79a9d909ae0e00'}
 table_of_contents:
 - ref:
     seq: 0
@@ -109,4 +109,7 @@ table_of_contents:
   label: 一喝分五教
   type: mulu
   level: 1
-hash: sha256:de77142427a142db620ca47fc4c7411a06e6fe8a257a0717a3bd9c372f95d4d3
+hash: sha256:a8e6eee13a3408554d7624571761fb86b5d56fe91d2c06f59ab410bacb1ad285
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
